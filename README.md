@@ -1,6 +1,6 @@
 ﻿# Ex3---Hurdle-Game-2D
 ## AIM:
-To develop a 2D game using C# program in unity .
+To develop a 2D game using C# program in unity . 
 
 ## ALGORITHM:
 ### STEP 1:
